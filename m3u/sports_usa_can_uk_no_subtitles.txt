@@ -1,0 +1,106 @@
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR green][UPPERCASE]Last Update 28.03.2015 [/UPPERCASE][/COLOR]
+ 
+#EXTINF:-1,[COLOR blue][UPPERCASE]Last tested 24.03.2015 [/UPPERCASE][/COLOR]
+ 
+#EXTINF:-1,[COLOR orange]Testing Via Playlist Loader - KODI v14.1 - Win 7x64 [/COLOR]
+ 
+#EXTINF:-1,TSN 1 (HD)
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+ 
+#EXTINF:-1,TSN 2 (HD)
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+ 
+#EXTINF:-1,TSN 3 (HD)
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+  
+#EXTINF:-1,TSN 4 (HD)
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+ 
+#EXTINF:-1,TSN 5 (HD)
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+ 
+#EXTINF:-1,SportsNet 360 (HD)
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ 
+#EXTINF:-1 tvg-id="IPTV Brasil - Off" tvg-logo="off.png" group-title="SportsNet Ontario",SportsNet Ontario (SD)
+rtmp://31.220.0.195:80/live/ playpath=sno token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1 tvg-id="IPTV Brasil - Off" tvg-logo="off.png" group-title="Sportsnet One",SportsNet One (SD) 
+rtmp://109.123.70.38:80/live/ playpath=sportsnetw token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=0 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Mountain) 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (National) 1920*1080
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (National) 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo=",PAC-12 Net. (National) 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Arizona) 1920*1080 [COLOR red][UPPERCASE] DOWN [/UPPERCASE][/COLOR]
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Arizona) 1280*720 [COLOR red][UPPERCASE] DOWN [/UPPERCASE][/COLOR]
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Arizona) 640*360 [COLOR red][UPPERCASE] DOWN [/UPPERCASE][/COLOR]
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Bay Area) 640*360
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 1920*1080 
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Washington) 1920*1080 [COLOR red][UPPERCASE] DOWN [/UPPERCASE][/COLOR]
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Washington) 1280*720 [COLOR red][UPPERCASE] DOWN [/UPPERCASE][/COLOR]
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1 tvg-name= tvg-id="3 GEEZERS" tvg-name="3 GEEZERS" group-title="?????" tvg-logo="",PAC-12 Net. (Washington) 640*360 [COLOR red][UPPERCASE] DOWN [/UPPERCASE][/COLOR]
+http://xrxs.net/video/live-p12wash-1164.m3u8
+ 
+#EXTINF:-1,BTN2GO (HD)
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ 
+#EXTINF:-1,BTN2GO (SD)
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
+ 
+#EXTINF:-1,NBA TV (SD)
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+
+#EXTINF:-1,NBA TV (HD)
+http://78.56.73.169:4022/udp/239.2.3.114:1234
+
+#EXTINF:-1,Golf Channel (SD)
+rtmp://31.220.0.206:1935/live/_definst_/golf
+ 
+#EXTINF:-1 tvg-logo="ESPN Usa.png",ESPN USA (SD)
+rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Off" tvg-logo="off.png" group-title="ESPN 2 USA",ESPN 2 USA (SD)  
+rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z 
+
+#EXTINF:-1,FOX Sports News - AUS. (HQSD)
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
+
+#EXTINF:-1,FOX Sports - USA (HD)
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+ 
+#EXTINF:-1 tvg-id="IPTV Brasil - Off" tvg-logo="off.png" group-title="FOX Sports",FOX Sports 1 (SD)
+rtmp://178.18.31.52:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191359?183055?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Off" tvg-logo="off.png" group-title="foxsports",FOX Sports 2 (SD)
+rtmp://31.220.0.195:80/live/fox22 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fox22x?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+
+#EXTINF:-1,Sports Night (SD)
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+ 
+#EXTINF:-1,Sports Night (HD)
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+edit this paste or clone this paste RAW Paste Data
